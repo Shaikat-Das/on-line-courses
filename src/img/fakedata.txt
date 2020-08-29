@@ -1,0 +1,243 @@
+const courses=[
+
+{
+	
+	"name":"Pianoforall - Incredible New Way To Learn Piano & Keyboard",
+	"description":"Learn Piano in WEEKS not years. Play-By-Ear & learn to Read Music. Pop, Blues, Jazz, Ballads, Improvisation, Classical",
+	"instructor": "Robin Hill",
+	"Price": 99.90
+}
+
+{
+	
+	"name":"Complete Guitar System - Beginner to Advanced",
+	"description":"All-in-one Guitar Course With a Proven Step-by-step Learning System",
+	"instructor": "Ereic Andresce",
+	"Price": 99.95
+}
+
+{
+
+	"name":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+	"description":"Dive in and learn React.js from scratch! Learn Reactjs,Animations, Next.js and way more!",
+	"instructor": "Maximilian",
+	"Price": 89.95
+}
+
+
+{
+	
+	"name":"BECOME A GREAT SINGER: Your Complete Vocal Training System",
+	"description":"Immediately Improve Your Singing. (Any Level, Any Style)",
+	"instructor":"Mobert",
+	"Price": 9.95
+}
+
+{
+
+	"name":"BECOME A GREAT Painter: Your Complete pencil Training System",
+	"description":"Immediately Improve Your Drawing. (Any Level, Any Style)",
+	"instructor": "Mahabub",
+	"Price": 59.95
+}
+
+{
+
+	"name":"Vocal Workouts #1: SINGING SIMPLIFIED",
+	"description":"10, 30-minute vocal exercise sessions to help you get better, faster! (100 singing lessons)",
+	"instructor": "Robert",
+	"Price":9.95
+}
+
+{
+
+	"name":"Complete Blender Creator: Learn 3D Modelling for Beginners",
+	"description":"Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More",
+	"instructor": "Robertson",
+	"Price": 19.95
+}
+
+{
+	
+	"name":"Cinema 4D Masterclass: The Ultimate Guide for Beginners",
+	"description":"Take your design skills to the next level, into the 3rd Dimension with this Cinema 4D Course",
+	"instructor": "Devidson",
+	"Price": 49.95
+}
+
+{
+
+	"name":"Creating 3D environments in Blender",
+	"description":"This course helps you creating wonderful environment scenes, organizing your workflow, and find the right inspiration.",
+	"instructor": "Eric Selin",
+	"Price": 49.95
+}
+
+{
+
+	"name":"Ultimate Blender 3D Character Creation & Animation Course",
+	"description":"Learn 3D character creation & animation in Blender 2.8 with this A-Z course great for beginners and all levels of skill",
+	"instructor": "Eric Udas",
+	"Price": 49.95
+}
+
+
+{
+	
+	"name":"Piano Class - Incredible Way To Learn Piano & Keyboard",
+	"description":"Learn Piano in WEEKS not years. Play-By-Ear & learn to Read Music",
+	"instructor":"Robinson Hill",
+	"Price": 39.90
+}
+
+{
+	"name":"In-Complete Guitar System - Beginner to Advanced",
+	"description':"All-in-one Guitar Course",
+	"instructor": "Ereic Andresce two',
+	"Price": 49.95
+}
+
+{
+	"name":"React - The Complete Guide",
+	"description":"Dive in and learn React.js from scratch!",
+	"instructor":"Maximilian",
+	"Price": 29.95
+}
+
+
+{
+
+	"name":"BECOME A GREAT SINGER: Your Complete Vocal Training System 2",
+	"description':"Immediately Improve Your Singing",
+	"instructor":"Mobert hazard",
+	"Price": 9.95
+}
+
+{
+	"name":"BECOME A GREAT SINGER: Become Complete Vocalist",
+	"description":"Immediately Improve Your Singing. (Any time, Any where you can sing)",
+	"instructor":"Mortaza",
+	"Price": 9.95
+}
+
+{
+	
+	"name":"Vocal Workouts #1: SINGING SIMPLIFIED hobe na",
+	"description":"1-3-minute vocal exercise sessions to help you get better, faster!",
+	"instructor":"Ostad",
+	"Price": 9.95
+}
+
+{
+	"name":"Complete Blender : Learn 3D Modelling",
+	"description":"Use Blender to Create Beautiful 3D models for Video Games",
+	"instructor":"Randson",
+	"Price": 19.95
+}
+
+{
+
+	"name":"Cinema 4D : The Ultimate Guide",
+	"description":"Take your design skills to the next level",
+	"instructor":"Ultra Devidson",
+	"Price": 49.95
+}
+		]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

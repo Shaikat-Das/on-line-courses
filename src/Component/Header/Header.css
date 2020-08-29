@@ -1,0 +1,28 @@
+.headerImage img {
+    width:80%;
+    height: 450px;
+    box-shadow: 10px 10px 10px lightskyblue;
+    margin-bottom: 5%;
+}
+
+.navigation{
+    display: flex;
+    font-size: 20px;
+    margin-top: 3%;
+    text-decoration: none;
+    margin-left:10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 10px lightskyblue;
+    padding:1px;
+}
+.navigation a{
+    color: white;
+    margin:15px;
+    
+    
+    
+}
+.navigation a:hover{
+    background-color: gray;
+   
+}

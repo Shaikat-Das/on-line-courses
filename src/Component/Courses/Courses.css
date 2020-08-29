@@ -1,0 +1,29 @@
+.row{
+    width: 90%;
+   margin-left: 5%;
+}
+
+
+
+
+.course-area{
+    border:1px solid lightskyblue;
+    background: lightseagreen;
+    
+
+}
+.course-area h3{
+    margin-left: 2%;
+    margin-right:2%;
+}
+
+.cart-area{
+    border:1px solid lightpink;
+    background-color: lightslategrey;
+
+}
+.cart-area h3{
+    margin-left: 1%;
+    margin-right:1%;
+}
+
