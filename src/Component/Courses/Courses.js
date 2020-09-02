@@ -6,7 +6,7 @@ import Topic from '../../Component/Topics/Topic'
 import Cart from '../../Component/cart/Cart'
 const Courses = () => { 
 const first10= fakeInfo.slice(0,10);
-const [courses, setCourses] =useState(first10)
+const [courses, setCourses] =useState(first10) 
 const [cart, setCart]= useState([]);
 
 const handleAddProduct =(course) =>{

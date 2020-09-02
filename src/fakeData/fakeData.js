@@ -1,5 +1,37 @@
 const data=
 [{
+          "id": 106,
+          "name": "Pianoforall - Incredible New Way To Learn Piano & Keyboard",
+          "description": "Learn Piano in WEEKS not years. Play-By-Ear & learn to Read Music. Pop, Blues, Jazz, Ballads, Improvisation, Classical",
+          "instructor": "Robin Hill",
+          "price": 99.90
+      },
+      
+      {
+          "id": 116,
+          "name": "Complete Guitar System - Beginner to Advanced",
+          "description": "All-in-one Guitar Course With a Proven Step-by-step Learning System",
+          "instructor": "Ereic Andresce",
+          "price": 99.95
+      },
+      
+      {
+          "id": 126,
+          "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+          "description": "Dive in and learn React.js from scratch! Learn Reactjs,Animations, Next.js and way more!",
+          "instructor": "Maximilian",
+          "price": 89.95
+      },
+      
+      
+      {
+          "id": 136,
+          "name": "BECOME A GREAT SINGER: Your Complete Vocal Training System",
+          "description": "Immediately Improve Your Singing. (Any Level, Any Style)",
+          "instructor": "Mobert",
+          "price": 9.95
+      }, 
+  {
     "id": 6, 
     "name": "Vagram",
     "description": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien",
@@ -149,7 +181,9 @@ const data=
     "description": "at turpis donec posuere metus vitae ipsum aliquam non",
     "instructor": "Fabien",
     "price": 75
-  }]
+  }
+
+]
 
   export default data;
 
